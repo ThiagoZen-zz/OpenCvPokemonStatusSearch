@@ -8,4 +8,4 @@ using the following Dataset
 
 ## Video test
 
-[![test]](https://github.com/ThiagoZen/OpenCvPokemonStatusSearch/blob/main/vid/teste.mkv)
+[![test](https://github.com/ThiagoZen/OpenCvPokemonStatusSearch/blob/main/vid/thumbnail.png)](https://github.com/ThiagoZen/OpenCvPokemonStatusSearch/blob/main/vid/teste.mkv)
